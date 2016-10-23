@@ -2,12 +2,6 @@
 * Day of Code
 * Code Retreat
 
-## Conway's Game of Life Rules
-* 1. Any live cell with < 2 live neighbors dies of under population
-* 2. Any live cell with 2 or 3 live neighbors lives on
-* 3. Any live cell with > 3 live neighbors dies of over population
-* 4. Any dead cell with exactly 3 live neighbors comes alive
-
 ## Code Retreat Rules
 * Each session is 45 minutes long
 * Each pair switches with new members on every session change
@@ -19,6 +13,12 @@
 * Expresses intent
 * No duplication
 * Short
+
+## Conway's Game of Life Rules
+* 1. Any live cell with < 2 live neighbors dies of under population
+* 2. Any live cell with 2 or 3 live neighbors lives on
+* 3. Any live cell with > 3 live neighbors dies of over population
+* 4. Any dead cell with exactly 3 live neighbors comes alive
 
 ## Constraints 
 
