@@ -1,4 +1,6 @@
 # Software Craftsmanship North America (SCNA) 2016 
+* Day of Code
+* Code Retreat
 
 ## Conway's Game of Life Rules
 * 1. Any live cell with < 2 live neighbors dies of under population
