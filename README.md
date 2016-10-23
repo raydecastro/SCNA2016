@@ -1,4 +1,4 @@
-# Software Crafsmanship North America [SCNA2016]
+# Software Craftsmanship North America (SCNA) 2016 
 
 ## Conway's Game of Life Rules
 * 1. Any live cell with < 2 live neighbors dies of under population
@@ -19,22 +19,18 @@
 * Short
 
 ## Constraints 
+
 ### Step 1
 * No constraints
 
 ### Step 2
-
 * No primitives across method boundaries 
 * Input and output must be defined by us
 
 ### Step 3
-
 * Silent TDD
 * No talking, no chatting
 
 ### Step 4
-
 * Code like it's 1969
 * you can only run the tests and code twice for the whole session. 
-
-@LACodeAndCoffee
